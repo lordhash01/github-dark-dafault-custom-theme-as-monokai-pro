@@ -2,11 +2,9 @@
 1. 	Install the GitHub Theme Extension
 • 	In VS Code, go to Extensions ()
 • 	Search for "GitHub Theme" and install it
-2. 	Open Settings (JSON View)
-• 	Press  → type 
-• 	Or go to ⚙️ Settings → search for 
+2. 	Open Setting > search settings.json 
 3. 	Paste the Custom Theme Code
-• 	Copy the full JSON code I gave you earlier
+• 	Copy the full JSON code I gave you 
 • 	Paste it inside your  file
 4. 	Save the File
 • 	Press  to save
