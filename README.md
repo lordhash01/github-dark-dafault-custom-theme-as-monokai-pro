@@ -3,12 +3,10 @@
 • 	In VS Code, go to Extensions ()
 • 	Search for "GitHub Theme" and install it
 2. 	Open Setting > search settings.json 
-3. 	Paste the Custom Theme Code
-• 	Copy the full JSON code I gave you 
-• 	Paste it inside your  file
+3. 	Paste the Custom Theme Code in setting.json   
 4. 	Save the File
-• 	Press  to save
-5. 	Reload VS Code
+• 	Press ctrl +s  to save
+5. 	Reload VS Code ctrl + shift + p
 • 	Changes apply instantly, but you can reload the window ( → ) if needed
 6. 	Fix Errors (if any)
 • 	If you see red squiggles or errors, use GitHub Copilot or Copilot Chat to help fix them
